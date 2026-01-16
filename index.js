@@ -32,3 +32,15 @@ let e = 10;
 let r = d * e;
 
 console.log(r);
+
+// branch 3
+
+let n = 19;
+let o = 20;
+let p = 21;
+let q = 22;
+
+console.log(n);
+console.log(o);
+console.log(p);
+console.log(q);
