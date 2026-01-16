@@ -24,3 +24,11 @@ let Fname = "Nikhil kale";
 const na = Fname.trim().toUpperCase();
 
 console.log(na);
+
+// new
+let d = 10;
+let e = 10;
+
+let r = d * e;
+
+console.log(r);
