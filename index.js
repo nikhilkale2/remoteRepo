@@ -19,3 +19,8 @@ let ab = 10;
 for (let i = 1; i <= ab; i++) {
   console.log(i);
 }
+// new
+let Fname = "Nikhil kale";
+const na = Fname.trim().toUpperCase();
+
+console.log(na);
