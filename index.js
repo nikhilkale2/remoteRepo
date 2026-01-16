@@ -11,3 +11,11 @@ while (i <= 5) {
   console.log(i);
   i++;
 }
+
+// 16 Jan 2026 Task
+
+let ab = 10;
+
+for (let i = 1; i <= ab; i++) {
+  console.log(i);
+}
