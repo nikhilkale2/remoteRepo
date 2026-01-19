@@ -4,3 +4,9 @@
 .top-lg-40 {
   top: 0px;
 }
+body {
+  overflow-x: hidden;
+}
+.NavLinks {
+  display: block;
+}
