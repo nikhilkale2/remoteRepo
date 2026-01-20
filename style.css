@@ -10,3 +10,14 @@ body {
 .NavLinks {
   display: block;
 }
+#rajeImg {
+  width: 100%;
+  height: 850px;
+}
+
+@media (max-width: 768px) {
+  #rajeImg {
+    width: 100%;
+    height: 450px;
+  }
+}
