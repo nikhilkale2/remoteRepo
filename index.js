@@ -32,8 +32,3 @@ let e = 10;
 let r = d * e;
 
 console.log(r);
-
-let num1 = 5;
-let num2 = 8;
-let product = num1 * num2;
-console.log(`${num1} * ${num2} = ${product}`);
