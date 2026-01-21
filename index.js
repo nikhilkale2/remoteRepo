@@ -32,3 +32,13 @@ let e = 10;
 let r = d * e;
 
 console.log(r);
+
+
+
+const num1 = 5;
+const num2 = 10;
+const num3 = 15;
+const num4 = 20;
+
+const sum = num1 + num2 + num3 + num4;
+console.log(sum);
