@@ -4,3 +4,20 @@
 .top-lg-40 {
   top: 0px;
 }
+body {
+  overflow-x: hidden;
+}
+.NavLinks {
+  display: block;
+}
+#rajeImg {
+  width: 100%;
+  height: 850px;
+}
+
+@media (max-width: 768px) {
+  #rajeImg {
+    width: 100%;
+    height: 450px;
+  }
+}
