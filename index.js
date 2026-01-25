@@ -44,3 +44,8 @@ console.log(sum);
 let h = 12;
 let p = 12;
 console.log(h + p);
+const x = 5;
+const y = 3;
+const z = 2;
+const product = x * y * z;
+console.log(product);
