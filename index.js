@@ -49,3 +49,9 @@ const y = 3;
 const z = 2;
 const product = x * y * z;
 console.log(product);
+
+let nk = "nikhil";
+let kn = "kale";
+
+let concat = nk.concat(kn);
+console.log(concat);
