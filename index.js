@@ -55,3 +55,9 @@ let kn = "kale";
 
 let concat = nk.concat(kn);
 console.log(concat);
+let str1 = "Hello";
+let str2 = "Nikhik";
+let str3 = "World";
+
+let result = str1.concat(str2, str3);
+console.log(result);
